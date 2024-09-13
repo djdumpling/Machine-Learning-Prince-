@@ -1,1 +1,1 @@
-Studied "Understanding Machine Learning" by Prince. Coded his exercises.
+Studied "Understanding Machine Learning" by Prince. Code based on his exercises.
